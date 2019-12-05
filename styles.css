@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+}
+
+
+
+#about {
+	background-image: url("https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
+	height: 100vh;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+.contenttitle {
+	font-size: 5ch;
+	color: black;
+	position: absolute;
+	bottom: 70%;
+	padding: 2em;
+	text-orientation: mixed;
+	transform: rotate(10deg);
+
+}
+.content {
+	font-size: 5ch;
+	color: black;
+	position: absolute;
+	bottom: 5%;
+	padding: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
